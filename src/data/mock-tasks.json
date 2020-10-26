@@ -3,9 +3,9 @@
     "id": "fb78e762-d7f4-4b51-974b-2c790604de6a",
     "name": "Trim hair",
     "description": "",
-    "createdDate": "2018-06-14",
+    "createdDate": "2020-06-14",
  
-    "dueDate": "2018-06-16",
+    "dueDate": "2020-06-16",
     "resolved": false
   },
   {
@@ -23,7 +23,7 @@
   
     "name": "Grocery shopping",
     "description": "- milk\n- fruits\n- toilet rolls",
-    "createdDate": "2018-06-17",
+    "createdDate": "2020-06-17",
     "reminderDate": "2018-06-20",
     "dueDate": "2018-06-20",
     "resolved": false
@@ -33,7 +33,7 @@
   
     "name": "Vacuum the floor",
     "description": "remember to charge the vacuum a day before",
-    "createdDate": "2018-06-17",
+    "createdDate": "2020-06-17",
    
     "dueDate": "2018-06-23",
     "resolved": false
